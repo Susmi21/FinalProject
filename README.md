@@ -1,2 +1,2 @@
 # FinalProject
-Battery State of health of capacity determination with autoencoders, GRU and Fedarated Learning
+Lithium Ion Battery Capacity Estimation using Autoencoders and Ensemble Learning 
